@@ -7,9 +7,6 @@
 
 - 📫 How to reach me **mansipanwar11999@gmail.com**
 - 🌱 I’m currently learning **PowerBi,SQL,Python,DSA**
-
-- 📫 How to reach me **mansipanwar11999@gmail.com**
-
 - ⚡ Fun fact **I Debugs code more than i sleep , becoz who needs sleep when you have infinite loops**
 
 
