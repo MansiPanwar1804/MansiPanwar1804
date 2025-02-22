@@ -3,8 +3,9 @@
 <h3 align="center">A passionate Data Analyst and Frontend developer from India</h3>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/89764162/216025420-8abe7bc6-0085-46a9-b5e8-27779e5f7a00.gif">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mansipanwar1804&label=Profile%20views&color=0e75b6&style=flat" alt="mansipanwar1804" /> </p>
+
+- 📫 How to reach me **mansipanwar11999@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
