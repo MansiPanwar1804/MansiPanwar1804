@@ -6,6 +6,12 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mansipanwar1804&label=Profile%20views&color=0e75b6&style=flat" alt="mansipanwar1804" /> </p>
 
 - 📫 How to reach me **mansipanwar11999@gmail.com**
+- 🌱 I’m currently learning **PowerBi,SQL,Python,DSA**
+
+- 📫 How to reach me **mansipanwar11999@gmail.com**
+
+- ⚡ Fun fact **I Debugs code more than i sleep , becoz who needs sleep when you have infinite loops**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
