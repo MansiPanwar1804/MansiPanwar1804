@@ -1,4 +1,4 @@
-![logo](https://github.com/MansiPanwar1804/Mansi-Panwar/blob/main/MnasiBanner.jpeg)
+![logo](https://media.licdn.com/dms/image/v2/D5616AQG4xugUTd2DWQ/profile-displaybackgroundimage-shrink_350_1400/B56ZUyatIQGUAY-/0/1740307617202?e=1746057600&v=beta&t=oIzhliluXKlTz9TkNDq9aCMvNQ_kBptjvBrgg8YTra8)
 <h1 align="center">Hello Ji 👋, I'm Mansi Panwar</h1>
 <h3 align="center">A passionate Data Analyst and Frontend developer from India</h3>
 
