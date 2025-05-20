@@ -1,5 +1,5 @@
 ![logo](https://media.licdn.com/dms/image/v2/D5616AQG4xugUTd2DWQ/profile-displaybackgroundimage-shrink_350_1400/B56ZUyatIQGUAY-/0/1740307617202?e=1746057600&v=beta&t=oIzhliluXKlTz9TkNDq9aCMvNQ_kBptjvBrgg8YTra8)
-<h1 align="center">Hello Ji 👋, I'm Mansi Panwar</h1>
+<h1 align="center">Hello Ji 👋, I'm Mansi</h1>
 <h3 align="center">A Passionate Data Analyst and Web Developer</h3>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/89764162/216025420-8abe7bc6-0085-46a9-b5e8-27779e5f7a00.gif">
